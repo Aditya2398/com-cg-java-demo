@@ -21,6 +21,6 @@ c.meth();
                             System.out.println(c.d);
                             System.out.println(c.x);
                             System.out.println(c.z);
-                            System.out.println(c.);
+                            
 }
 }
